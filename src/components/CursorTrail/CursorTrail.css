@@ -1,0 +1,24 @@
+.cursor-star {
+    position: fixed;
+    pointer-events: none;
+    z-index: 9999;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(139, 92, 246, 0.8) 50%, transparent 100%);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+        0 0 20px rgba(139, 92, 246, 0.6),
+        0 0 30px rgba(236, 72, 153, 0.4);
+    animation: star-fade 1s ease-out forwards;
+    transform: translate(-50%, -50%);
+}
+
+@keyframes star-fade {
+    0% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+
+    100% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.2) translateY(-30px);
+    }
+}

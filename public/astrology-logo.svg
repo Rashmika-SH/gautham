@@ -1,0 +1,32 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#F8E7FF" stop-opacity="0.95" />
+      <stop offset="50%" stop-color="#C09BFF" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#2A1B4A" stop-opacity="0.85" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8BE0FF" />
+      <stop offset="50%" stop-color="#A66BFF" />
+      <stop offset="100%" stop-color="#FF7EC7" />
+    </linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#0F0F23" />
+  <circle cx="60" cy="60" r="54" fill="url(#glow)" />
+  <circle cx="60" cy="60" r="40" fill="#0F0F23" opacity="0.6" />
+  <path d="M60 18L64.6 36.5L82.5 33L70 46.5L78 64.5L60 54.5L42 64.5L50 46.5L37.5 33L55.4 36.5L60 18Z" fill="url(#accent)" opacity="0.9"/>
+  <path d="M36 86C46 76 64 76 74 86" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
+  <path d="M47 78C48 70 53 64 60 64C67 64 72 70 73 78" stroke="#F8E7FF" stroke-width="3" stroke-linecap="round" />
+  <circle cx="36" cy="86" r="3" fill="#8BE0FF" />
+  <circle cx="74" cy="86" r="3" fill="#FF7EC7" />
+  <circle cx="60" cy="64" r="4" fill="#F8E7FF" />
+  <circle cx="94" cy="40" r="4" fill="#8BE0FF" />
+  <circle cx="26" cy="34" r="3" fill="#FF7EC7" />
+  <circle cx="90" cy="80" r="3" fill="#A66BFF" />
+  <circle cx="30" cy="70" r="2.5" fill="#8BE0FF" />
+  <path d="M26 34C34 38 42 38 50 34" stroke="#F8E7FF" stroke-width="2" stroke-linecap="round" opacity="0.7" />
+  <path d="M94 40C86 44 78 44 70 40" stroke="#F8E7FF" stroke-width="2" stroke-linecap="round" opacity="0.7" />
+  <path d="M30 70C38 66 46 66 54 70" stroke="#F8E7FF" stroke-width="2" stroke-linecap="round" opacity="0.5" />
+  <path d="M90 80C82 76 74 76 66 80" stroke="#F8E7FF" stroke-width="2" stroke-linecap="round" opacity="0.5" />
+</svg>
+
