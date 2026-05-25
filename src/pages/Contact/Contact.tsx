@@ -14,7 +14,6 @@ const Contact = () => {
     message: ''
   });
 
-  const [isLoading] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
 
   const handleSubmit = (e: React.FormEvent) => {
