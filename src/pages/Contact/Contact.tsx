@@ -43,7 +43,7 @@ const Contact = () => {
         keywords={pageSEO.contact.keywords}
         url="/contact"
       />
-      
+
       <section className="contact-hero">
         <div className="container">
           <motion.div
@@ -178,7 +178,7 @@ const Contact = () => {
                     </div>
                     <div className="method-details">
                       <h3>WhatsApp</h3>
-                      <a href="http://wa.me/+17042366628" target="_blank" rel="noopener noreferrer" onClick={trackWhatsAppClick}>
+                      <a href="https://wa.me/17042366628" target="_blank" rel="noopener noreferrer" onClick={trackWhatsAppClick}>
                         Chat with us
                       </a>
                     </div>
@@ -189,8 +189,8 @@ const Contact = () => {
                       <FaMapMarkerAlt />
                     </div>
                     <div className="method-details">
-                      <h3>Locations</h3>
-                      <p>Sydney, Brisbane, Melbourne</p>
+                      <h3>Address</h3>
+                      <p>9550 Community Commons Ln, Apt 165, Charlotte, NC</p>
                     </div>
                   </div>
                 </div>
@@ -199,7 +199,7 @@ const Contact = () => {
                   <a href="tel:+17042366628" className="btn btn-gold" onClick={trackPhoneCall}>
                     <FaPhone /> Call Now
                   </a>
-                  <a href="http://wa.me/+17042366628" className="btn btn-secondary" target="_blank" rel="noopener noreferrer" onClick={trackWhatsAppClick}>
+                  <a href="https://wa.me/17042366628" className="btn btn-secondary" target="_blank" rel="noopener noreferrer" onClick={trackWhatsAppClick}>
                     <FaWhatsapp /> WhatsApp
                   </a>
                 </div>
