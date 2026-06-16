@@ -33,14 +33,14 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           ],
           "areaServed": {
             "@type": "Country",
-            "name": "Australia"
+            "name": "USA"
           },
           "hasOccupation": {
             "@type": "Occupation",
             "name": "Astrologer",
             "occupationLocation": {
               "@type": "Country",
-              "name": "Australia"
+              "name": "USA"
             }
           },
           "contactPoint": {
@@ -69,7 +69,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           },
           "areaServed": {
             "@type": "Country",
-            "name": "Australia"
+            "name": "USA"
           },
           "availableChannel": {
             "@type": "ServiceChannel",
@@ -90,7 +90,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           ...baseSchema,
           "@type": "LocalBusiness",
           "name": "Master Gautham",
-          "description": "Expert Vedic astrology services across Australia",
+          "description": "Expert Vedic astrology services in Charlotte, North Carolina, USA",
           "url": "https://myastroshivaanagh.com",
           "telephone": "+17042366628",
           "email": "mastergautham2006@gmail.com",
@@ -101,21 +101,21 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           "areaServed": [
             {
               "@type": "City",
-              "name": "Sydney",
-              "addressRegion": "NSW",
-              "addressCountry": "AU"
+              "name": "Charlotte",
+              "addressRegion": "NC",
+              "addressCountry": "US"
             },
             {
               "@type": "City", 
-              "name": "Melbourne",
-              "addressRegion": "VIC",
-              "addressCountry": "AU"
+              "name": "Charlotte",
+              "addressRegion": "NC",
+              "addressCountry": "US"
             },
             {
               "@type": "City",
-              "name": "Brisbane", 
-              "addressRegion": "QLD",
-              "addressCountry": "AU"
+              "name": "Charlotte, North Carolina", 
+              "addressRegion": "NC",
+              "addressCountry": "US"
             }
           ],
           "serviceType": [
@@ -142,7 +142,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           "name": "Master Gautham",
           "url": "https://myastroshivaanagh.com",
           "logo": "https://myastroshivaanagh.com/logo.jpeg",
-          "description": "Leading Vedic astrology services provider in Australia",
+          "description": "Leading Vedic astrology services provider in Charlotte, North Carolina, USA",
           "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "+17042366628",
@@ -157,7 +157,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           "numberOfEmployees": "1-5",
           "areaServed": {
             "@type": "Country",
-            "name": "Australia"
+            "name": "USA"
           },
           ...data
         };

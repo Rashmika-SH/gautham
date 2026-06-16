@@ -16,7 +16,7 @@ export const services: Service[] = [
     description: 'Ancient Vedic technique to influence and attract positive energies in relationships and life.',
     icon: '🔮',
     image: '/img/vashikaran.jpeg',
-    detailedDescription: 'Vashikaran is an ancient Vedic practice that helps in attracting positive energies and influencing situations in your favor. Our expert Astrologer Shiva Anagh uses traditional methods to help you achieve harmony in relationships, career, and personal life. Shiva Anagh is a vashikaran vidya through years of sadhana and siddhi. Shiva Anagh also has Mohini and shabar mantras, which can help you restore love. Regain lost love, the solution to a husband-wife divorce issue is vashikaran, business loss third party who can break your love and romance Regain your soulmate. Vashikaran spells are available in many kinds. It is based on your zodiac sign and other information that will suit you. The mantra chanting is among our work. You need to follow the steps which Shiva Anagh tells you. We have always been able to satisfy our customers. Many people from Australia have overcome their love issues with the advice of Shiva Anagh.',
+    detailedDescription: 'Vashikaran is an ancient Vedic practice that helps in attracting positive energies and influencing situations in your favor. Our expert Astrologer Shiva Anagh uses traditional methods to help you achieve harmony in relationships, career, and personal life. Shiva Anagh is a vashikaran vidya through years of sadhana and siddhi. Shiva Anagh also has Mohini and shabar mantras, which can help you restore love. Regain lost love, the solution to a husband-wife divorce issue is vashikaran, business loss third party who can break your love and romance Regain your soulmate. Vashikaran spells are available in many kinds. It is based on your zodiac sign and other information that will suit you. The mantra chanting is among our work. You need to follow the steps which Shiva Anagh tells you. We have always been able to satisfy our customers. Many people from USA have overcome their love issues with the advice of Shiva Anagh.',
     benefits: [
       'Resolve relationship conflicts',
       'Attract love and affection',
@@ -31,7 +31,7 @@ export const services: Service[] = [
     description: 'Expert removal of dark energies and black magic effects with 100% guaranteed results.',
     icon: '🛡️',
     image: '/img/black-magic-removal.jpeg',
-    detailedDescription: 'Black magic has been a menace since ancient times. Our experts have practiced Vedic and ancient traditions to remove black magic. No matter how powerful it is or how long ago the magic was cast upon you, we can assure you 100% that it can be resolved. Black magic is not a new phenomenon. Black Magic in Australia is not a new concept. It involves using various mantras and tantras to defeat evil forces and harm people. Astrologer Shiva Anagh, a Specialist in Black Magic Removal in Australia, is available to help you in this matter. He is an expert in Black Magic Removal and can help you eliminate any Negative Energy or Black Magic. Get rid of all Black Magic and bring back the joy in your life.',
+    detailedDescription: 'Black magic has been a menace since ancient times. Our experts have practiced Vedic and ancient traditions to remove black magic. No matter how powerful it is or how long ago the magic was cast upon you, we can assure you 100% that it can be resolved. Black magic is not a new phenomenon. Black Magic in Charlotte, North Carolina, USA is not a new concept. It involves using various mantras and tantras to defeat evil forces and harm people. Astrologer Shiva Anagh, a Specialist in Black Magic Removal in Charlotte, North Carolina, USA, is available to help you in this matter. He is an expert in Black Magic Removal and can help you eliminate any Negative Energy or Black Magic. Get rid of all Black Magic and bring back the joy in your life.',
     benefits: [
       'Complete removal of dark energies',
       'Protection from future attacks',
@@ -46,7 +46,7 @@ export const services: Service[] = [
     description: 'Reunite with your lost love through powerful astrological remedies and guidance.',
     icon: '💕',
     image: '/img/get-ex-love-back.jpeg',
-    detailedDescription: 'Lost your true love? Our specialized astrological remedies and guidance can help you reunite with your ex-partner. Using ancient Vedic techniques and personalized solutions, we help restore broken relationships. Love opens up a world full of adventure and emotional journeys that two souls share. Astrologer Shiva Anagh has effectively resolved numerous cases of separation and issues with love. He can provide the best solutions to help you get your Ex to Love Back in Brisbane, Melbourne and Sydney services.',
+    detailedDescription: 'Lost your true love? Our specialized astrological remedies and guidance can help you reunite with your ex-partner. Using ancient Vedic techniques and personalized solutions, we help restore broken relationships. Love opens up a world full of adventure and emotional journeys that two souls share. Astrologer Shiva Anagh has effectively resolved numerous cases of separation and issues with love. He can provide the best solutions to help you get your Ex to Love Back in Charlotte, North Carolina, USA services.',
     benefits: [
       'Rekindle lost romance',
       'Resolve past conflicts',
@@ -123,7 +123,7 @@ export const services: Service[] = [
     icon: '📊',
     iconImage: '/horoscope-icon.svg',
     image: '/img/horoscope-reader.jpeg',
-    detailedDescription: 'Get comprehensive horoscope readings based on your birth chart. Understand your strengths, challenges, and life path through detailed Vedic astrology analysis. Astrologer Shiva Anagh is the Best Horoscope Reader in Brisbane, Melbourne and Sydney. He is a brilliant expert in Vedic Astrology and all aspects of Astrology. His deep knowledge of various mantras and tantras makes him a great choice to help customers.',
+    detailedDescription: 'Get comprehensive horoscope readings based on your birth chart. Understand your strengths, challenges, and life path through detailed Vedic astrology analysis. Astrologer Shiva Anagh is the Best Horoscope Reader in Charlotte, North Carolina, USA. He is a brilliant expert in Vedic Astrology and all aspects of Astrology. His deep knowledge of various mantras and tantras makes him a great choice to help customers.',
     benefits: [
       'Understand your destiny',
       'Career guidance',

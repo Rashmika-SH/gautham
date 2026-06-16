@@ -40,7 +40,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6, duration: 0.8 }}
           >
-            Master Gautham, Best Astrologer & Psychic Reader Gautham is internationally renowned and resides in Brisbane. A specialist in palm reading, horoscope interpretation, black magic removal, and other services to solve all your problems through special protective prayers, pujas mantras, and yantras.
+            Master Gautham, Best Astrologer & Psychic Reader Gautham is internationally renowned and is located in Charlotte, North Carolina, USA. A specialist in palm reading, horoscope interpretation, black magic removal, and other services to solve all your problems through special protective prayers, pujas mantras, and yantras.
 
           </motion.p>
           

@@ -44,8 +44,8 @@ const SEO: React.FC<SEOProps> = ({
       <meta name="twitter:image" content={fullImageUrl} />
 
       {/* Additional SEO Meta Tags */}
-      <meta name="geo.region" content="AU" />
-      <meta name="geo.placename" content="Australia" />
+      <meta name="geo.region" content="US" />
+      <meta name="geo.placename" content="USA" />
       <meta name="language" content="English" />
       <meta name="distribution" content="global" />
       <meta name="rating" content="general" />
@@ -71,14 +71,14 @@ const SEO: React.FC<SEOProps> = ({
           ],
           "areaServed": {
             "@type": "Country",
-            "name": "Australia"
+            "name": "USA"
           },
           "hasOccupation": {
             "@type": "Occupation",
             "name": "Astrologer",
             "occupationLocation": {
               "@type": "Country",
-              "name": "Australia"
+              "name": "USA"
             }
           },
           "contactPoint": {

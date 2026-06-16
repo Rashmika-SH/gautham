@@ -31,7 +31,7 @@ const ServiceDetail = () => {
   return (
     <div className="service-detail-page">
       <SEO
-        title={seoData?.title || `${service.title} - Master Gautham Australia`}
+        title={seoData?.title || `${service.title} - Master Gautham USA`}
         description={seoData?.description || service.description}
         keywords={seoData?.keywords || ['astrology', 'vedic astrology', service.title.toLowerCase()]}
         url={`/services/${service.id}`}
