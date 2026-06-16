@@ -175,19 +175,9 @@ export const serviceSEO = {
 };
 
 export const locationSEO = {
-  Charlotte: {
-    title: "Best Astrologer in Charlotte - Master Gautham | Vedic Astrology Services NSW",
-    description: "Top-rated astrologer Master Gautham provides expert Vedic astrology services in Charlotte, NSW. Horoscope reading, spiritual healing, and love problem solutions.",
-    keywords: ["astrologer Charlotte", "vedic astrology Charlotte", "horoscope reading Charlotte", "spiritual healer Charlotte", "best astrologer nsw"]
-  },
-  Charlotte: {
-    title: "Best Astrologer in Charlotte - Master Gautham | Vedic Astrology Services VIC",
-    description: "Renowned astrologer Master Gautham offers comprehensive astrology services in Charlotte, VIC. Expert in black magic removal, vashikaran, and spiritual guidance.",
-    keywords: ["astrologer Charlotte", "vedic astrology Charlotte", "spiritual healer Charlotte", "black magic removal Charlotte", "best astrologer vic"]
-  },
-  Charlotte, North Carolina: {
-    title: "Best Astrologer in Charlotte, North Carolina - Master Gautham | Vedic Astrology Services QLD",
-    description: "Expert astrologer Master Gautham provides trusted astrology services in Charlotte, North Carolina, QLD. Specializing in love problems, career guidance, and spiritual healing.",
-    keywords: ["astrologer Charlotte, North Carolina", "vedic astrology Charlotte, North Carolina", "love problem solution Charlotte, North Carolina", "career astrology Charlotte, North Carolina", "best astrologer qld"]
+  "charlotte-nc": {
+    title: "Best Astrologer in Charlotte, NC - Master Gautham | Vedic Astrology Services",
+    description: "Expert astrologer Master Gautham provides trusted astrology services in Charlotte, North Carolina. Specializing in love problems, career guidance, and spiritual healing.",
+    keywords: ["astrologer charlotte nc", "vedic astrology charlotte", "spiritual healer charlotte", "black magic removal charlotte", "best astrologer north carolina"]
   }
 };
