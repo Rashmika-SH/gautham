@@ -30,7 +30,7 @@ export const defaultSEO: SEOConfig = {
     "best astrologer USA",
     "indian astrologer USA"
   ],
-  url: "https://myastroshivaanagh.com",
+  url: "https://www.astro-psychicgautham.com",
   image: "/logo.jpeg",
   type: "website"
 };

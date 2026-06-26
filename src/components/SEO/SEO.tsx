@@ -14,8 +14,8 @@ const SEO: React.FC<SEOProps> = ({
   type = 'website',
   children
 }) => {
-  const fullUrl = url.startsWith('http') ? url : `https://myastroshivaanagh.com${url}`;
-  const fullImageUrl = image.startsWith('http') ? image : `https://myastroshivaanagh.com${image}`;
+  const fullUrl = url.startsWith('http') ? url : `https://www.astro-psychicgautham.com${url}`;
+  const fullImageUrl = image.startsWith('http') ? image : `https://www.astro-psychicgautham.com${image}`;
 
   return (
     <Helmet>
@@ -56,7 +56,7 @@ const SEO: React.FC<SEOProps> = ({
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Master Gautham",
-          "url": "https://myastroshivaanagh.com",
+          "url": "https://www.astro-psychicgautham.com",
           "image": fullImageUrl,
           "jobTitle": "Vedic Astrologer",
           "description": description,

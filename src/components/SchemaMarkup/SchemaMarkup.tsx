@@ -17,8 +17,8 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           ...baseSchema,
           "@type": "Person",
           "name": "Master Gautham",
-          "url": "https://myastroshivaanagh.com",
-          "image": "https://myastroshivaanagh.com/logo.jpeg",
+          "url": "https://www.astro-psychicgautham.com",
+          "image": "https://www.astro-psychicgautham.com/logo.jpeg",
           "jobTitle": "Vedic Astrologer",
           "description": "Expert Vedic astrologer with over 30 years of experience in horoscope readings, spiritual healing, and astrological guidance",
           "knowsAbout": [
@@ -51,7 +51,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
             "availableLanguage": ["English", "Hindi"]
           },
           "sameAs": [
-            "https://myastroshivaanagh.com"
+            "https://www.astro-psychicgautham.com"
           ],
           ...data
         };
@@ -65,7 +65,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           "provider": {
             "@type": "Person",
             "name": "Master Gautham",
-            "url": "https://myastroshivaanagh.com"
+            "url": "https://www.astro-psychicgautham.com"
           },
           "areaServed": {
             "@type": "Country",
@@ -73,7 +73,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           },
           "availableChannel": {
             "@type": "ServiceChannel",
-            "serviceUrl": `https://myastroshivaanagh.com/services/${data.id}`,
+            "serviceUrl": `https://www.astro-psychicgautham.com/services/${data.id}`,
             "servicePhone": "+17042366628"
           },
           "category": "Astrology Services",
@@ -91,7 +91,7 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           "@type": "LocalBusiness",
           "name": "Master Gautham",
           "description": "Expert Vedic astrology services in Charlotte, North Carolina, USA",
-          "url": "https://myastroshivaanagh.com",
+          "url": "https://www.astro-psychicgautham.com",
           "telephone": "+17042366628",
           "email": "mastergautham2006@gmail.com",
           "priceRange": "$$",
@@ -140,8 +140,8 @@ const SchemaMarkup: React.FC<SchemaMarkupProps> = ({ type, data }) => {
           ...baseSchema,
           "@type": "Organization",
           "name": "Master Gautham",
-          "url": "https://myastroshivaanagh.com",
-          "logo": "https://myastroshivaanagh.com/logo.jpeg",
+          "url": "https://www.astro-psychicgautham.com",
+          "logo": "https://www.astro-psychicgautham.com/logo.jpeg",
           "description": "Leading Vedic astrology services provider in Charlotte, North Carolina, USA",
           "contactPoint": {
             "@type": "ContactPoint",

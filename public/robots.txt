@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://myastroshivaanagh.com/sitemap.xml
+Sitemap: https://www.astro-psychicgautham.com/sitemap.xml
