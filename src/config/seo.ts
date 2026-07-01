@@ -80,97 +80,97 @@ export const serviceSEO = {
   "vashikaran-specialist": {
     title: "Vashikaran Specialist Charlotte NC | Master Gautham",
     description: "Looking for Vashikaran Specialist Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["vashikaran specialist charlotte nc", "vashikaran specialist near me", "best vashikaran specialist", "online vashikaran specialist", "vashikaran expert charlotte"]
+    keywords: ["vashikaran specialist charlotte nc", "vashikaran specialist near me", "best vashikaran specialist", "online vashikaran specialist"]
   },
   "black-magic-removal": {
     title: "Black Magic Removal Charlotte NC | Master Gautham",
     description: "Looking for Black Magic Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["black magic removal charlotte nc", "black magic removal near me", "best black magic removal", "online black magic removal", "dark energy removal charlotte"]
+    keywords: ["black magic removal charlotte nc", "black magic removal near me", "best black magic removal", "online black magic removal"]
   },
   "get-ex-love-back": {
     title: "Get Ex Love Back Charlotte NC | Master Gautham",
     description: "Looking for Get Ex Love Back Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["get ex love back charlotte nc", "get ex love back near me", "best get ex love back", "online get ex love back", "lost love return charlotte"]
+    keywords: ["get ex love back charlotte nc", "get ex love back near me", "best get ex love back", "online get ex love back"]
   },
   "spiritual-healing": {
     title: "Spiritual Healing Charlotte NC | Master Gautham",
     description: "Looking for Spiritual Healing Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["spiritual healing charlotte nc", "spiritual healing near me", "best spiritual healing", "online spiritual healing", "energy healing charlotte"]
+    keywords: ["spiritual healing charlotte nc", "spiritual healing near me", "best spiritual healing", "online spiritual healing"]
   },
   "business-problems-solution": {
     title: "Business Problem Solution Charlotte NC | Master Gautham",
     description: "Looking for Business Problem Solution Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["business problem solution charlotte nc", "career astrology charlotte", "financial problems solution", "job promotion astrology", "business growth charlotte"]
+    keywords: ["business problem solution charlotte nc", "business problem solution near me", "best business problem solution", "online business problem solution"]
   },
   "negative-energy-removal": {
     title: "Negative Energy Removal Charlotte NC | Master Gautham",
     description: "Looking for Negative Energy Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["negative energy removal charlotte nc", "negative energy removal near me", "aura cleansing charlotte", "energy protection", "negativity removal charlotte"]
+    keywords: ["negative energy removal charlotte nc", "negative energy removal near me", "best negative energy removal", "online negative energy removal"]
   },
   "evil-spirit-removal": {
     title: "Evil Spirit Removal Charlotte NC | Master Gautham",
     description: "Looking for Evil Spirit Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["evil spirit removal charlotte nc", "evil spirit removal near me", "best evil spirit removal", "online evil spirit removal", "paranormal protection charlotte"]
+    keywords: ["evil spirit removal charlotte nc", "evil spirit removal near me", "best evil spirit removal", "online evil spirit removal"]
   },
   "horoscope-reading": {
     title: "Horoscope Reading Charlotte NC | Master Gautham",
     description: "Looking for Horoscope Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["horoscope reading charlotte nc", "horoscope reading near me", "best horoscope reading", "online horoscope reading", "birth chart analysis charlotte"]
+    keywords: ["horoscope reading charlotte nc", "horoscope reading near me", "best horoscope reading", "online horoscope reading"]
   },
   "palm-reading": {
     title: "Palm Reading Charlotte NC | Master Gautham",
     description: "Looking for Palm Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["palm reading charlotte nc", "palm reading near me", "best palm reading", "online palm reading", "palmistry expert charlotte"]
+    keywords: ["palm reading charlotte nc", "palm reading near me", "best palm reading", "online palm reading"]
   },
   "psychic-reading": {
     title: "Psychic Reading Charlotte NC | Master Gautham",
     description: "Looking for Psychic Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["psychic reading charlotte nc", "psychic reading near me", "best psychic reading", "online psychic reading", "intuitive guidance charlotte"]
+    keywords: ["psychic reading charlotte nc", "psychic reading near me", "best psychic reading", "online psychic reading"]
   },
   "kundli-reading": {
     title: "Kundli Reading Charlotte NC | Master Gautham",
     description: "Looking for Kundli Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["kundli reading charlotte nc", "kundli reading near me", "best kundli reading", "online kundli reading", "birth chart analysis charlotte"]
+    keywords: ["kundli reading charlotte nc", "kundli reading near me", "best kundli reading", "online kundli reading"]
   },
   "relationship-marriage": {
     title: "Marriage Guidance Charlotte NC | Master Gautham",
     description: "Looking for Marriage Guidance Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["marriage guidance charlotte nc", "relationship marriage near me", "best relationship marriage", "online relationship marriage", "marriage counseling charlotte"]
+    keywords: ["marriage guidance charlotte nc", "relationship and marriage near me", "best relationship and marriage", "online relationship and marriage"]
   },
   "divorce-problems": {
     title: "Divorce Problem Solution Charlotte NC | Master Gautham",
     description: "Looking for Divorce Problem Solution Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["divorce problem solution charlotte nc", "divorce problems near me", "best divorce problems", "online divorce problems", "save marriage charlotte"]
+    keywords: ["divorce problem solution charlotte nc", "divorce problems near me", "best divorce problems", "online divorce problems"]
   },
   "clairvoyant-reading": {
     title: "Clairvoyant Reading Charlotte NC | Master Gautham",
     description: "Looking for Clairvoyant Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["clairvoyant reading charlotte nc", "clairvoyant reading near me", "best clairvoyant reading", "online clairvoyant reading", "psychic vision charlotte"]
+    keywords: ["clairvoyant reading charlotte nc", "clairvoyant reading near me", "best clairvoyant reading", "online clairvoyant reading"]
   },
   "jealousy-curse-removal": {
     title: "Curse Removal Charlotte NC | Master Gautham",
     description: "Looking for Curse Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["curse removal charlotte nc", "jealousy curse removal near me", "best jealousy curse removal", "online jealousy curse removal", "negative energy removal charlotte"]
+    keywords: ["curse removal charlotte nc", "jealousy curse removal near me", "best jealousy curse removal", "online jealousy curse removal"]
   },
   "nazar-evil-eye-removal": {
     title: "Evil Eye Removal Charlotte NC | Master Gautham",
     description: "Looking for Evil Eye Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["evil eye removal charlotte nc", "nazar evil eye removal near me", "best nazar evil eye removal", "online nazar evil eye removal", "nazar removal charlotte"]
+    keywords: ["evil eye removal charlotte nc", "nazar evil eye removal near me", "best nazar evil eye removal", "online nazar evil eye removal"]
   },
   "voodoo-removal": {
     title: "Voodoo Removal Charlotte NC | Master Gautham",
     description: "Looking for Voodoo Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["voodoo removal charlotte nc", "voodoo removal near me", "best voodoo removal", "online voodoo removal", "dark magic removal charlotte"]
+    keywords: ["voodoo removal charlotte nc", "voodoo removal near me", "best voodoo removal", "online voodoo removal"]
   },
   "witchcraft-removal": {
     title: "Witchcraft Removal Charlotte NC | Master Gautham",
     description: "Looking for Witchcraft Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["witchcraft removal charlotte nc", "witchcraft removal near me", "best witchcraft removal", "online witchcraft removal", "hex removal charlotte"]
+    keywords: ["witchcraft removal charlotte nc", "witchcraft removal near me", "best witchcraft removal", "online witchcraft removal"]
   },
   "pujas-lord-shiva": {
     title: "Shiva Puja Charlotte NC | Master Gautham",
     description: "Looking for Shiva Puja Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
-    keywords: ["shiva puja charlotte nc", "pujas lord shiva near me", "best pujas lord shiva", "online pujas lord shiva", "vedic puja charlotte"]
+    keywords: ["shiva puja charlotte nc", "pujas lord shiva near me", "best pujas lord shiva", "online pujas lord shiva"]
   }
 };
 
