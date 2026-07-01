@@ -78,99 +78,99 @@ export const pageSEO = {
 
 export const serviceSEO = {
   "vashikaran-specialist": {
-    title: "Vashikaran Specialist Master Gautham USA - Love Problem Solution Expert",
-    description: "Expert vashikaran specialist Master Gautham helps resolve love problems, attract relationships, and restore harmony. Ethical vashikaran services in Charlotte, North Carolina, USA.",
-    keywords: ["vashikaran specialist USA", "love problem solution", "attract love", "relationship problems", "vashikaran expert"]
+    title: "Vashikaran Specialist Charlotte NC | Master Gautham",
+    description: "Looking for Vashikaran Specialist Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["vashikaran specialist charlotte nc", "vashikaran specialist near me", "best vashikaran specialist", "online vashikaran specialist", "vashikaran expert charlotte"]
   },
   "black-magic-removal": {
-    title: "Black Magic Removal Specialist USA - 100% Guaranteed Results | Master Gautham",
-    description: "Expert black magic removal by astrologer Master Gautham. 100% guaranteed removal of dark energies, evil eye, and negative influences. Permanent protection solutions.",
-    keywords: ["black magic removal USA", "evil eye removal", "negative energy cleansing", "dark magic specialist", "spiritual protection"]
+    title: "Black Magic Removal Charlotte NC | Master Gautham",
+    description: "Looking for Black Magic Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["black magic removal charlotte nc", "black magic removal near me", "best black magic removal", "online black magic removal", "dark energy removal charlotte"]
   },
   "get-ex-love-back": {
-    title: "Get Ex Love Back Specialist USA - Reunite with Lost Love | Astrologer Master Gautham",
-    description: "Reunite with your ex-partner through powerful astrological remedies by Master Gautham. Proven methods to restore broken relationships and bring back lost love.",
-    keywords: ["get ex love back", "lost love return", "relationship restoration", "love back specialist", "ex boyfriend back"]
+    title: "Get Ex Love Back Charlotte NC | Master Gautham",
+    description: "Looking for Get Ex Love Back Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["get ex love back charlotte nc", "get ex love back near me", "best get ex love back", "online get ex love back", "lost love return charlotte"]
   },
   "spiritual-healing": {
-    title: "Spiritual Healing Services USA - Holistic Energy Healing | Astrologer Master Gautham",
-    description: "Experience transformative spiritual healing with astrologer Master Gautham. Heal physical, emotional, and mental distress through ancient Vedic practices.",
-    keywords: ["spiritual healing USA", "energy healing", "holistic healing", "chakra balancing", "spiritual wellness"]
+    title: "Spiritual Healing Charlotte NC | Master Gautham",
+    description: "Looking for Spiritual Healing Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["spiritual healing charlotte nc", "spiritual healing near me", "best spiritual healing", "online spiritual healing", "energy healing charlotte"]
   },
   "business-problems-solution": {
-    title: "Business Problem Solution Astrologer USA - Career & Financial Growth | Master Gautham",
-    description: "Overcome business challenges and career obstacles with astrological guidance from Master Gautham. Solutions for financial growth and professional success.",
-    keywords: ["business problem solution", "career astrology", "financial problems", "job promotion", "business growth astrology"]
+    title: "Business Problem Solution Charlotte NC | Master Gautham",
+    description: "Looking for Business Problem Solution Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["business problem solution charlotte nc", "career astrology charlotte", "financial problems solution", "job promotion astrology", "business growth charlotte"]
   },
   "negative-energy-removal": {
-    title: "Negative Energy Removal USA - Aura Cleansing & Protection | Astrologer Master Gautham",
-    description: "Remove negative energies and cleanse your aura with expert guidance from Master Gautham. Restore positivity and protect yourself from harmful influences.",
-    keywords: ["negative energy removal", "aura cleansing", "energy protection", "negativity removal", "positive energy"]
+    title: "Negative Energy Removal Charlotte NC | Master Gautham",
+    description: "Looking for Negative Energy Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["negative energy removal charlotte nc", "negative energy removal near me", "aura cleansing charlotte", "energy protection", "negativity removal charlotte"]
   },
   "evil-spirit-removal": {
-    title: "Evil Spirit Removal Specialist USA - Paranormal Protection | Astrologer Master Gautham",
-    description: "Expert evil spirit removal and paranormal protection by astrologer Master Gautham. Complete cleansing of homes and personal protection from supernatural entities.",
-    keywords: ["evil spirit removal", "ghost removal", "paranormal activity", "spirit cleansing", "supernatural protection"]
+    title: "Evil Spirit Removal Charlotte NC | Master Gautham",
+    description: "Looking for Evil Spirit Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["evil spirit removal charlotte nc", "evil spirit removal near me", "best evil spirit removal", "online evil spirit removal", "paranormal protection charlotte"]
   },
   "horoscope-reading": {
-    title: "Horoscope Reading USA - Detailed Birth Chart Analysis | Astrologer Master Gautham",
-    description: "Get accurate horoscope readings and birth chart analysis from expert astrologer Master Gautham. Understand your destiny, career, and relationship predictions.",
-    keywords: ["horoscope reading USA", "birth chart analysis", "kundli reading", "astrology prediction", "vedic horoscope"]
+    title: "Horoscope Reading Charlotte NC | Master Gautham",
+    description: "Looking for Horoscope Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["horoscope reading charlotte nc", "horoscope reading near me", "best horoscope reading", "online horoscope reading", "birth chart analysis charlotte"]
   },
   "palm-reading": {
-    title: "Palm Reading USA - Palmistry Expert | Astrologer Master Gautham",
-    description: "Discover your future through expert palm reading by astrologer Master Gautham. Ancient palmistry reveals personality, talents, and life predictions.",
-    keywords: ["palm reading USA", "palmistry expert", "hand reading", "palm lines meaning", "chiromancy"]
+    title: "Palm Reading Charlotte NC | Master Gautham",
+    description: "Looking for Palm Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["palm reading charlotte nc", "palm reading near me", "best palm reading", "online palm reading", "palmistry expert charlotte"]
   },
   "psychic-reading": {
-    title: "Psychic Reading USA - Intuitive Guidance | Astrologer Master Gautham",
-    description: "Connect with divine wisdom through psychic readings by Master Gautham. Gain clarity, make better decisions, and understand your life purpose.",
-    keywords: ["psychic reading USA", "intuitive reading", "spiritual guidance", "psychic consultation", "divine wisdom"]
+    title: "Psychic Reading Charlotte NC | Master Gautham",
+    description: "Looking for Psychic Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["psychic reading charlotte nc", "psychic reading near me", "best psychic reading", "online psychic reading", "intuitive guidance charlotte"]
   },
   "kundli-reading": {
-    title: "Kundli Reading USA - Birth Chart Analysis | Astrologer Master Gautham",
-    description: "Comprehensive Kundli analysis for marriage compatibility, career guidance, and life predictions by expert astrologer Master Gautham.",
-    keywords: ["kundli reading", "birth chart analysis", "kundli matching", "horoscope analysis", "vedic chart reading"]
+    title: "Kundli Reading Charlotte NC | Master Gautham",
+    description: "Looking for Kundli Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["kundli reading charlotte nc", "kundli reading near me", "best kundli reading", "online kundli reading", "birth chart analysis charlotte"]
   },
   "relationship-marriage": {
-    title: "Relationship & Marriage Problem Solution USA | Astrologer Master Gautham",
-    description: "Expert solutions for relationship conflicts, marriage issues, and love problems. Restore harmony and strengthen your bond.",
-    keywords: ["relationship problems", "marriage counseling", "love problem solution", "relationship astrology", "marriage compatibility"]
+    title: "Marriage Guidance Charlotte NC | Master Gautham",
+    description: "Looking for Marriage Guidance Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["marriage guidance charlotte nc", "relationship marriage near me", "best relationship marriage", "online relationship marriage", "marriage counseling charlotte"]
   },
   "divorce-problems": {
-    title: "Divorce Problem Solution USA - Save Your Marriage | Master Gautham",
-    description: "Prevent divorce and save your marriage through powerful astrological interventions by Astrologer Master Gautham.",
-    keywords: ["divorce solution", "save marriage", "prevent divorce", "marriage problems", "divorce astrology"]
+    title: "Divorce Problem Solution Charlotte NC | Master Gautham",
+    description: "Looking for Divorce Problem Solution Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["divorce problem solution charlotte nc", "divorce problems near me", "best divorce problems", "online divorce problems", "save marriage charlotte"]
   },
   "clairvoyant-reading": {
-    title: "Clairvoyant Reading USA - Clear Vision | Astrologer Master Gautham",
-    description: "Clear vision into your past, present, and future through clairvoyant abilities. Receive spiritual insights and guidance.",
-    keywords: ["clairvoyant reading", "psychic vision", "future prediction", "spiritual insight", "clairvoyance"]
+    title: "Clairvoyant Reading Charlotte NC | Master Gautham",
+    description: "Looking for Clairvoyant Reading Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["clairvoyant reading charlotte nc", "clairvoyant reading near me", "best clairvoyant reading", "online clairvoyant reading", "psychic vision charlotte"]
   },
   "jealousy-curse-removal": {
-    title: "Jealousy & Curse Removal USA | Astrologer Master Gautham",
-    description: "Remove curses, jealousy effects, and evil intentions. Break free from harmful energies and reclaim your success.",
-    keywords: ["curse removal", "jealousy removal", "evil intentions", "negative energy", "curse breaking"]
+    title: "Curse Removal Charlotte NC | Master Gautham",
+    description: "Looking for Curse Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["curse removal charlotte nc", "jealousy curse removal near me", "best jealousy curse removal", "online jealousy curse removal", "negative energy removal charlotte"]
   },
   "nazar-evil-eye-removal": {
-    title: "Nazar & Evil Eye Removal USA | Astrologer Master Gautham",
-    description: "Protection from evil eye (Nazar) and removal of its harmful effects. Shield yourself and your family from negative glares.",
-    keywords: ["evil eye removal", "nazar removal", "drishti removal", "evil eye protection", "nazar protection"]
+    title: "Evil Eye Removal Charlotte NC | Master Gautham",
+    description: "Looking for Evil Eye Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["evil eye removal charlotte nc", "nazar evil eye removal near me", "best nazar evil eye removal", "online nazar evil eye removal", "nazar removal charlotte"]
   },
   "voodoo-removal": {
-    title: "Voodoo Removal USA - Break Dark Magic Spells | Master Gautham",
-    description: "Expert removal of voodoo spells and dark magic practices. Regain control of your life and break free from voodoo.",
-    keywords: ["voodoo removal", "dark magic removal", "voodoo spell breaking", "black magic", "voodoo protection"]
+    title: "Voodoo Removal Charlotte NC | Master Gautham",
+    description: "Looking for Voodoo Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["voodoo removal charlotte nc", "voodoo removal near me", "best voodoo removal", "online voodoo removal", "dark magic removal charlotte"]
   },
   "witchcraft-removal": {
-    title: "Witchcraft Removal USA - Remove Hexes & Sorcery | Master Gautham",
-    description: "Complete removal of witchcraft, hexes, and dark sorcery effects. Permanent protection from supernatural harm.",
-    keywords: ["witchcraft removal", "hex removal", "sorcery removal", "dark magic", "witchcraft protection"]
+    title: "Witchcraft Removal Charlotte NC | Master Gautham",
+    description: "Looking for Witchcraft Removal Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["witchcraft removal charlotte nc", "witchcraft removal near me", "best witchcraft removal", "online witchcraft removal", "hex removal charlotte"]
   },
   "pujas-lord-shiva": {
-    title: "Pujas for Lord Shiva USA - Sacred Rituals | Astrologer Master Gautham",
-    description: "Sacred pujas and rituals dedicated to Lord Shiva for blessings and problem resolution. Transform your life with divine grace.",
-    keywords: ["shiva puja", "rudrabhishek", "lord shiva rituals", "vedic puja", "shiva worship"]
+    title: "Shiva Puja Charlotte NC | Master Gautham",
+    description: "Looking for Shiva Puja Charlotte NC? Master Gautham offers professional consultations, spiritual guidance and personalized solutions. Call today.",
+    keywords: ["shiva puja charlotte nc", "pujas lord shiva near me", "best pujas lord shiva", "online pujas lord shiva", "vedic puja charlotte"]
   }
 };
 
